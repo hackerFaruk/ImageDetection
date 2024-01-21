@@ -1,0 +1,13 @@
+names:
+- hedef
+- pink
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: ilkproje
+  url: https://universe.roboflow.com/education-f32oy/ilkproje/dataset/1
+  version: 1
+  workspace: education-f32oy
+test: ../test/images
+train: ilkProje-1/train/images
+val: ilkProje-1/valid/images
