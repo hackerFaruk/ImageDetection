@@ -4,6 +4,13 @@
 Bu Repo image detection konularında farklı modelleri kullanma ve eğitme becerilerinin kazanılması için başlatılan bir kaynaktır. Farklı görüntü tanıma teknolojisi konseptlerini keşfetmeyi, sade ve anlaşılır süreçlerle ifade etmeyi hedefler.
 
 
+
+
+
+
+
+
+
 ## Kullanılan Kaynklar 
 - TensorFlow Lİte tutorial notebook
 ```
@@ -19,4 +26,9 @@ https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-
 - COCO Evaluate
 ```
 https://cocodataset.org/#detection-eval
+```
+
+- TensorFlow Docs Use model in python
+```
+https://www.tensorflow.org/lite/inference_with_metadata/task_library/object_detector
 ```
