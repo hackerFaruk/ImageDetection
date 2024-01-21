@@ -32,6 +32,8 @@ detection_result = detector.detect(image)
 
 
 
+
+
 ## Kullanılan Kaynklar 
 - TensorFlow Lİte tutorial notebook
 ```
@@ -52,4 +54,9 @@ https://cocodataset.org/#detection-eval
 - TensorFlow Docs Use model in python
 ```
 https://www.tensorflow.org/lite/inference_with_metadata/task_library/object_detector
+```
+
+- mean Avarage Precision for object detection 
+```
+https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173
 ```
