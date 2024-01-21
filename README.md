@@ -15,3 +15,8 @@ https://colab.research.google.com/github/khanhlvg/tflite_raspberry_pi/blob/main/
 ```
 https://colab.research.google.com/github/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Train_TFLite2_Object_Detction_Model.ipynb
 ```
+
+- COCO Evaluate
+```
+https://cocodataset.org/#detection-eval
+```
